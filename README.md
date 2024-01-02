@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor.
 * Las personalidades multiples de Freddy.
 * Creado por el increíble Team Platzi
+* Incluye ejemplos en windows, linux y mac
 
 Y como un amable recordatorio: **Este Readme.md es un chiste** diseñado como ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curriculum vitae de Nicolás.
