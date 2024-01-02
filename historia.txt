@@ -6,8 +6,11 @@ Su nombre es NicolasColab, contribuye en este proyecto opensource y nació en el
 
 y hoy hablaremos de mi vida. Nací en Bogotá y me gustan mucho los dulces y el deporte, tal vez suene un poco contradictorio pero es así.
 
+Main 1
+
+Main 2
+
 Experimento 1
 
 Experimento 2
 
-Main 1
